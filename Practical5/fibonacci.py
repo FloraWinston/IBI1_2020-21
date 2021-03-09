@@ -1,15 +1,15 @@
-#For Fibonacci sequence
-#thr first two integers of the sequence
+# For Fibonacci sequence
+# the first two integers of the sequence
 a = 1; b = 1
 print(a); print(b)
-#use a for-loop to do addition
-#totally will add 11 times for values
+# use a for-loop to do addition
+# totally will add 11 times for values
 for i in range(1,12):
-	#define x to do the addition
+	# define x to do the addition
     x = a + b
-    #redefine a, b when the loop is continuing
+    # redefine a, b when the loop is continuing
     b = a
     a = x
-    #display the value
+    # display the value
     print(x)
 
