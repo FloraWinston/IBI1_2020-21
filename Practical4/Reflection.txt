@@ -1,8 +1,0 @@
-Hi, here is my reflection about Practical 4.
-Generally speaking, I think this practical goes well and I have learned much about Git and GitHub. 
-Now, I can skillfully use the basic functions of Git and GItHub and get amazed by their pwerful functions. 
-Learning these things is obviously challenging at the first time. Although I follow the instructions on the protocol, there are still many errors exist and I have to solve them one by one. 
-I think get familiar with Git of this practical is most difficult. I encounter error at thr fist time I input code. 
-Luckily, I solved these problems finally, though it cost me a lot of time. 
-I want to learn more about Git and GitHub, also information about creating a website. 
-Wish I can master a better degree of these things in the future!
