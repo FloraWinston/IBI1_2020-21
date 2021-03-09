@@ -1,5 +1,5 @@
 # For Fibonacci sequence
-# the first two integers of the sequence
+# define the first two integers of the sequence
 a = 1; b = 1
 print(a); print(b)
 # use a for-loop to do addition
