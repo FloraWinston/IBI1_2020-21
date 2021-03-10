@@ -8,7 +8,7 @@ from random import randint
 
 # ceil takes the ceiling of a number, i.e. the next higher integer.
 # e.g. ceil(4.2)=5
-from math import ceil
+
 
 # define Boolean variable p for the condition of while-loop
 p=False
