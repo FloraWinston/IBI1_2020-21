@@ -17,6 +17,7 @@ Z = (X and not Y) or (Y and not X)
 print(Z)
 W = X != Y
 print(W)
+print(W == Z)
 # Round 2
 X = False
 Y = True
@@ -24,3 +25,4 @@ Z = (X and not Y) or (Y and not X)
 print(Z)
 W = X != Y
 print(W)
+print(W == Z)
